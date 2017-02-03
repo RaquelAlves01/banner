@@ -26,14 +26,14 @@ html {
 
 .banner {
   position: relative;
-  max-height: 75vh;
+  max-height: 23.65rem;
   overflow: hidden;
 }
-
 
 .banner-content {
   position: absolute;
   bottom: 0;
+  left: 0;
   width: 100%;
 }
 
